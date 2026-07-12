@@ -1,0 +1,52 @@
+*{
+    padding: 20px;
+    margin: 10px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background:#ffe9b3;
+    direction: ltr;
+    justify-content: left;
+    align-items: left;
+    min-height: auto;
+}
+.card{
+    width: 90%;
+    max-width: 900px;
+}
+.logo img{
+width: 200px;
+height: 200px;
+border-radius: 50%;
+border: 4px solid orange;
+}
+h1{
+    color: coral;
+    margin-top: 15px;
+}
+h2{
+    color: chocolate;
+    margin-top: 20px;
+}
+p{
+    margin: 10px;
+}
+ul{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+button{
+    margin-top: 20px;
+    padding: 12px 20px;
+    background: #ffe9b3;
+    color: blueviolet;
+    border: #ffe9b3;
+    border-radius: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+button:hover{
+    background: #ffe9b3;
+}
